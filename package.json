@@ -1,0 +1,22 @@
+{
+  "name": "what_do_you_meme_fall_2018",
+  "version": "1.0.0",
+  "description": "This is for the in class projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfd4/what_do_you_meme_fall_2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolfd4/what_do_you_meme_fall_2018/issues"
+  },
+  "homepage": "https://github.com/wolfd4/what_do_you_meme_fall_2018#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
